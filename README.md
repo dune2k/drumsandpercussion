@@ -1,5 +1,7 @@
-In this repo you find a GM SFZ file for the Salamander Drumkit.
+In this repo you find a GM SFZ file for the Salamander Drumkit. http://rytmenpinne.posterous.com/pages/salamander-drumkit
 I use it with Impro-Visor
+http://www.cs.hmc.edu/~keller/jazz/improvisor/
+
 
 There is also a SFZ file for Salamander Drumkit + Percussion. 
 
