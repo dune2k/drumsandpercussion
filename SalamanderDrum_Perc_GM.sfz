@@ -812,3 +812,7 @@ loop_mode=one_shot
 //Claves
 <region>  key=75  offset=0  lovel=0  hivel=79  sample=Samples\Percussion\Claves.wav
 
+
+///From Hydrogen drumkit Millo-Drums_v.1
+//Hand clap
+<region>  key=39  offset=0  lovel=0  hivel=79  sample=Samples\Percussion\clap_1.wav
